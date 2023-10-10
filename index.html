@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Modelo 3D de "spot"</title>
+    <style>
+        body { margin: 0; }
+        canvas { width: 100%; height: 100%; }
+        #sidebar {
+        position: absolute;
+        top: 0;
+        right: 0;
+        width: 300px;
+        height: 100%;
+        background-color: #f0f0f0;
+        padding: 20px;
+        box-sizing: border-box;
+        overflow-y: auto;
+        border-left: 1px solid #ccc;
+        }
+    </style>
+</head>
+<body>
+    <div id="sidebar">
+        <h2>Properties</h2>
+            <strong>Name:</strong> <span id="name"></span>
+        <ul>
+            <li><strong>Position:</strong> <span id="position"></span></li>
+            <li><strong>Rotation:</strong> <span id="rotation"></span></li>
+            <li><strong>Color:</strong> <span id="color"></span></li>
+        </ul>
+        <h2>Move Object</h2>
+        <button>Q (↑ x Axis)</button>
+        <button>A (↓ x Axis)</button>
+        <button>W (↑ y Axis)</button>
+        <button>S (↓ y Axis)</button>
+        <button>E (↑ z Axis)</button>
+        <button>D (↓ z Axis)</button>
+        <br>
+        <h2>Rotate Object</h2>
+        <button>R (↑ x Axis)</button>
+        <button>F (↓ x Axis)</button>
+        <button>T (↑ y Axis)</button>
+        <button>G (↓ y Axis)</button>
+        <button>Y (↑ z Axis)</button>
+        <button>H (↓ z Axis)</button>
+        <br>
+        <h2>Change Color</h2>
+        <input type="color" id="colorPicker">
+        <button onclick="changeColor()">Apply Color (Z)</button>
+        <br>
+        <button id="downloadJsonButton">Descargar JSON</button>
+        <img src="model.jpg" alt="" width="200" height="200">
+    </div>
+    <canvas id="renderCanvas"></canvas>
+
+    <script src="https://cdn.babylonjs.com/babylon.js"></script>
+    <script src="https://cdn.babylonjs.com/loaders/babylonjs.loaders.min.js"></script>
+    <script src="https://cdn.babylonjs.com/gui/babylon.gui.js"></script>
+
+    <script>
+        var canvas = document.getElementById("renderCanvas");
+        var engine = new BABYLON.Engine(canvas, true);
+
+        // Crear una escena
+        var scene = new BABYLON.Scene(engine);
+
+        // Agregar una cámara
+        var camera = new BABYLON.ArcRotateCamera("camera", -Math.PI / 2, Math.PI / 2, 5, BABYLON.Vector3.Zero(), scene);
+        camera.attachControl(canvas, true);
+
+        // Agregar una luz
+        var light = new BABYLON.HemisphericLight("light", new BABYLON.Vector3(0, 1, 0), scene);
+
+        var jsonParts = [
+        {
+            "name": "spot",
+            "models": "https://raw.githubusercontent.com/ravendano014/spot/main/parts/",
+            "parts": [
+            {
+                "mesh_id": "ukaq",
+                "mesh_name": "000.full_station.stl",
+                "position": [
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+                ],
+                "rotation": [
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+                ]
+            }
+            ]
+          }
+        ];
+
+        const localAxes = new BABYLON.AxesViewer(scene, 1);
+
+
+        // Cargar y posicionar cada parte del modelo 3D "spot"
+        function loadAndPositionPart(part) {
+            var meshURL = jsonParts[0].models;
+            var meshName = part.mesh_name;
+
+            BABYLON.SceneLoader.ImportMesh("", meshURL, meshName, scene, function (meshes) {
+                // Colocar la parte en su posición
+                meshes[0].id = part.mesh_id;
+                meshes[0].name = part.mesh_name;
+                meshes[0].position = new BABYLON.Vector3(part.position[0].x, part.position[0].y, part.position[0].z);
+                meshes[0].rotation = new BABYLON.Vector3(BABYLON.Tools.ToRadians(part.rotation[0].x), BABYLON.Tools.ToRadians(part.rotation[0].y), BABYLON.Tools.ToRadians(part.rotation[0].z));
+            });
+        }
+
+
+        for (var i = 0; i < jsonParts[0].parts.length; i++) {
+            loadAndPositionPart(jsonParts[0].parts[i], new BABYLON.Vector3(0, 0, 0));
+        }
+        // console.log(scene);
+
+        engine.runRenderLoop(function () {
+            scene.render();
+        });
+
+        window.addEventListener("resize", function () {
+            engine.resize();
+        });
+
+
+    let pickedMesh = null;
+    scene.onPointerMove = function() {
+        var result = scene.pick(scene.pointerX, scene.pointerY);
+        if (result.pickedMesh !== pickedMesh) {            
+            if (pickedMesh) {
+                pickedMesh.disableEdgesRendering(); 
+            }
+
+            pickedMesh = result.pickedMesh;
+            if (pickedMesh) {
+                pickedMesh.edgesWidth = 40.0;
+                pickedMesh.edgesColor = new BABYLON.Color4(0, 1, 0.87);
+                pickedMesh.enableEdgesRendering();
+                selectedMesh = pickedMesh;
+
+                 // Mostrar propiedades en la barra lateral
+                document.getElementById("name").textContent = pickedMesh.mesh_name;
+                document.getElementById("position").textContent = `X: ${pickedMesh.position.x.toFixed(2)}, Y: ${pickedMesh.position.y.toFixed(2)}, Z: ${pickedMesh.position.z.toFixed(2)}`;
+                document.getElementById("rotation").textContent = `X: ${BABYLON.Tools.ToDegrees(pickedMesh.rotation.x).toFixed(2)}°, Y: ${BABYLON.Tools.ToDegrees(pickedMesh.rotation.y).toFixed(2)}°, Z: ${BABYLON.Tools.ToDegrees(pickedMesh.rotation.z).toFixed(2)}°`;
+                document.getElementById("color").textContent = `Color: ${pickedMesh.material ? pickedMesh.material.diffuseColor.toString() : "N/A"}`;
+
+                window.addEventListener("keydown", function (event) {
+                var speed = 0.01;
+                switch (event.key) {
+                    case "q":
+                    pickedMesh.position.x += speed;
+                    break;
+                    case "a":
+                    pickedMesh.position.x -= speed;
+                    break;
+                    case "w":
+                    pickedMesh.position.y += speed;
+                    break;
+                    case "s":
+                    pickedMesh.position.y -= speed;
+                    break;
+                    case "e":
+                    pickedMesh.position.z += speed;
+                    break;
+                    case "d":
+                    pickedMesh.position.z -= speed;
+                    break;
+                    case "r":
+                    pickedMesh.rotation.x += BABYLON.Tools.ToRadians(speed);
+                    break;
+                    case "f":
+                    pickedMesh.rotation.x -= BABYLON.Tools.ToRadians(speed);
+                    break;
+                    case "t":
+                    pickedMesh.rotation.y += BABYLON.Tools.ToRadians(speed);
+                    break;
+                    case "g":
+                    pickedMesh.rotation.y -= BABYLON.Tools.ToRadians(speed);
+                    break;
+                    case "y":
+                    pickedMesh.rotation.z += BABYLON.Tools.ToRadians(speed);
+                    break;
+                    case "h":
+                    pickedMesh.rotation.z -= BABYLON.Tools.ToRadians(speed);
+                    break;
+                }
+
+                // Encuentra la parte correspondiente en jsonParts y actualiza sus propiedades
+                var partIndex = jsonParts[0].parts.findIndex(function (jsonPart) {
+                return jsonPart.mesh_id === pickedMesh.id;
+                });
+
+                if (partIndex !== -1) {
+                    var updatedPart = jsonParts[0].parts[partIndex];
+                    updatedPart.position[0].x = pickedMesh.position.x;
+                    updatedPart.position[0].y = pickedMesh.position.y;
+                    updatedPart.position[0].z = pickedMesh.position.z;
+                    updatedPart.rotation[0].x = BABYLON.Tools.ToDegrees(pickedMesh.rotation.x);
+                    updatedPart.rotation[0].y = BABYLON.Tools.ToDegrees(pickedMesh.rotation.y);
+                    updatedPart.rotation[0].z = BABYLON.Tools.ToDegrees(pickedMesh.rotation.z);
+                }
+                // console.log(jsonParts);
+
+                });
+            
+            }
+        }
+    };
+
+// Función para recopilar la información actualizada de las partes y descargar el JSON
+function downloadJson() {
+  // console.log(scene);
+  const updatedParts = jsonParts[0].parts.map((part) => {
+    const mesh = scene.getMeshByID(part.mesh_id);
+    return {
+      mesh_id: part.mesh_id,
+      mesh_name: part.mesh_name,
+      position: {
+        x: mesh.position.x,
+        y: mesh.position.y,
+        z: mesh.position.z,
+      },
+      rotation: {
+        x: BABYLON.Tools.ToDegrees(mesh.rotation.x),
+        y: BABYLON.Tools.ToDegrees(mesh.rotation.y),
+        z: BABYLON.Tools.ToDegrees(mesh.rotation.z),
+      },
+    };
+  });
+
+  const jsonContent = JSON.stringify(updatedParts, null, 2);
+  const blob = new Blob([jsonContent], { type: "application/json" });
+  const url = URL.createObjectURL(blob);
+
+  // Crear un enlace para la descarga
+  const downloadLink = document.createElement("a");
+  downloadLink.href = url;
+  downloadLink.download = "spot.json";
+  downloadLink.click();
+
+  // Liberar la URL del objeto Blob
+  URL.revokeObjectURL(url);
+}
+
+// Asigna la función downloadJson al botón de descarga
+document.getElementById("downloadJsonButton").addEventListener("click", downloadJson);
+
+document.addEventListener("keydown", function (event) {
+    if (event.key === "z") {
+        // Llama a la función changeColor() al presionar la tecla "Z"
+        changeColor();
+    }
+});
+
+function changeColor() {
+    const colorPicker = document.getElementById("colorPicker");
+    const selectedColor = colorPicker.value;
+
+    if (pickedMesh) {
+        // Cambiar el color del material de la parte seleccionada
+        pickedMesh.material = new BABYLON.StandardMaterial("material", scene);
+        pickedMesh.material.diffuseColor = new BABYLON.Color3.FromHexString(selectedColor);
+    }
+}
+
+    </script>
+</body>
+</html>
