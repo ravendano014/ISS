@@ -1,10 +1,6 @@
 [
         {
-            "name": "spot",
-            "models": "https://raw.githubusercontent.com/ravendano014/iss/main/",
-            "parts": [
-        {
-            "name": "spot",
+            "name": "ISS",
             "models": "https://raw.githubusercontent.com/ravendano014/iss/main/",
             "parts": [
               {
