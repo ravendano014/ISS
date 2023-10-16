@@ -1,6 +1,6 @@
 [
         {
-            "name": "ISS",
+            "name": "spot",
             "models": "https://raw.githubusercontent.com/ravendano014/iss/main/",
             "parts": [
               {
@@ -2754,5 +2754,4 @@
                 ]
               }
             ]
-}]
 }]
