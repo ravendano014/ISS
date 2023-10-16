@@ -3,2605 +3,2760 @@
             "name": "spot",
             "models": "https://raw.githubusercontent.com/ravendano014/iss/main/",
             "parts": [
-  {
-    "mesh_id": "ukaq",
-    "mesh_name": "001.Zarya_part_1.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "aaaa",
-    "mesh_name": "001.Zarya_part_2.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "baaa",
-    "mesh_name": "001.Zarya_solar_panel_left_part_1.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "eaaa",
-    "mesh_name": "001.Zarya_solar_panel_right_part_1.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "faaa",
-    "mesh_name": "001.Zarya_solar_panel_right_part_2.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "gaaa",
-    "mesh_name": "002.PMA_part_1.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "haaa",
-    "mesh_name": "002.PMA_part_2.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "iaaa",
-    "mesh_name": "002.Unity_part_1.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "jaaa",
-    "mesh_name": "002.Unity_part_2.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "kaaa",
-    "mesh_name": "003.Zvezda_antenna.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "laaa",
-    "mesh_name": "003.Zvezda_part_1.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "maaa",
-    "mesh_name": "003.Zvezda_part_2.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "naaa",
-    "mesh_name": "003.Zvezda_solar_pannel.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "oaaa",
-    "mesh_name": "004.Z1_truss_antenna.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "paaa",
-    "mesh_name": "004.Z1_truss_antenna_2.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "qaaa",
-    "mesh_name": "004.Z1_truss_docking_spacer.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "raaa",
-    "mesh_name": "004.Z1_truss_part_1.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "saaa",
-    "mesh_name": "004.Z1_truss_part_2.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "taaa",
-    "mesh_name": "005.destiny_part1.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "uaaa",
-    "mesh_name": "005.destiny_part2.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "vaaa",
-    "mesh_name": "005.pack.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "waaa",
-    "mesh_name": "006.ESP2.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "xaaa",
-    "mesh_name": "006.quest_part_1.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "yaaa",
-    "mesh_name": "006.quest_part_2.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "zaaa",
-    "mesh_name": "007.pris_DC1_part_1.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "abaa",
-    "mesh_name": "007.pris_DC1_part_2.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "acaa",
-    "mesh_name": "008.S0_truss.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "adaa",
-    "mesh_name": "009.mobile_transporter.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "aeaa",
-    "mesh_name": "009.mobile_transporter_arm_adaptor.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "afaa",
-    "mesh_name": "010.S1_truss.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "agaa",
-    "mesh_name": "010.radiator_bar.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "ahaa",
-    "mesh_name": "010.radiator_extended.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "aiaa",
-    "mesh_name": "010.radiator_sidebar.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "ajaa",
-    "mesh_name": "011.P1_truss_part_1.stl",
-    "position": [
-      {
-        "x": 1600,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0,
-        "g": 0,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "akaa",
-    "mesh_name": "011.radiator_bar.stl",
-    "position": [
-      {
-        "x": 1600,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0,
-        "g": 0,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "alaa",
-    "mesh_name": "011.radiator_extended.stl",
-    "position": [
-      {
-        "x": 1600,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0,
-        "g": 0,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "amaa",
-    "mesh_name": "011.radiator_side_bars.stl",
-    "position": [
-      {
-        "x": 1600,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.0196078431372549,
-        "g": 0.9764705882352941,
-        "b": 0.00392156862745098
-      }
-    ]
-  },
-  {
-    "mesh_id": "anaa",
-    "mesh_name": "012.P3_truss_part_1.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "aoaa",
-    "mesh_name": "012.P3_truss_part_2.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "apaa",
-    "mesh_name": "012.P3_truss_part_3.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "aqaa",
-    "mesh_name": "013.P4_docking_port.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "araa",
-    "mesh_name": "013.P4_truss_part_1.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "asaa",
-    "mesh_name": "013.P4_truss_part_2.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "ataa",
-    "mesh_name": "014.p5_truss.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "auaa",
-    "mesh_name": "014.p5_truss_docking_port.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "avaa",
-    "mesh_name": "015.S3_truss_part_1.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "awaa",
-    "mesh_name": "015.S3_truss_part_2.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "axaa",
-    "mesh_name": "015.S3_truss_part_3.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "ayaa",
-    "mesh_name": "016.S4_truss_docking_port.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "azaa",
-    "mesh_name": "016.S4_truss_part_1.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "aaba",
-    "mesh_name": "016.S4_truss_part_2.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "aaca",
-    "mesh_name": "017.S5_truss.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "aada",
-    "mesh_name": "017.S5_truss_docking_port.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "aaea",
-    "mesh_name": "018.side_clip.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "aafa",
-    "mesh_name": "018.solar_panel_part_1.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "aaga",
-    "mesh_name": "018.solar_panel_part_2.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "aaha",
-    "mesh_name": "019.External_stowage_platform.stl",
-    "position": [
-      {
-        "x": 1600,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0,
-        "g": 0,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "aaia",
-    "mesh_name": "020.harmony_part_1.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "aaja",
-    "mesh_name": "020.harmony_part_2.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "aaka",
-    "mesh_name": "021.P6_truss_docking_port.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "aala",
-    "mesh_name": "021.P6_truss_part_1.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "aama",
-    "mesh_name": "021.P6_truss_part_2.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "aana",
-    "mesh_name": "022.columbus_part_1.stl",
-    "position": [
-      {
-        "x": 1600,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0,
-        "g": 0,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "aaoa",
-    "mesh_name": "022.columbus_part_2.stl",
-    "position": [
-      {
-        "x": 1600,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0,
-        "g": 0,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "aapa",
-    "mesh_name": "023.Experiment_Logistics_Module_part_1.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "aaqa",
-    "mesh_name": "023.Experiment_Logistics_Module_part_2.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "aara",
-    "mesh_name": "023.exposed_facility.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "aasa",
-    "mesh_name": "023.kibo_arm_part_1.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "aata",
-    "mesh_name": "023.kibo_arm_part_2.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "aava",
-    "mesh_name": "023.kibo_arm_part_3.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "aawa",
-    "mesh_name": "023.kibo_arm_part_4.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "aaxa",
-    "mesh_name": "023.kibo_part_1.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "aaya",
-    "mesh_name": "023.kibo_part_2.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "aaza",
-    "mesh_name": "024.S6_truss_docking_port.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "aaab",
-    "mesh_name": "024.S6_truss_part_1.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "aaac",
-    "mesh_name": "024.S6_truss_part_2.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "aaad",
-    "mesh_name": "025.poisk_part_1.stl",
-    "position": [
-      {
-        "x": 1600,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0,
-        "g": 0,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "aaae",
-    "mesh_name": "025.poisk_part_2.stl",
-    "position": [
-      {
-        "x": 1600,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0,
-        "g": 0,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "aaaf",
-    "mesh_name": "026.Express_Logistics_Carrier.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "aaag",
-    "mesh_name": "027.tranquility_part__1.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "aaah",
-    "mesh_name": "027.tranquility_part__2.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "aaai",
-    "mesh_name": "028.cupola_part_1_.stl",
-    "position": [
-      {
-        "x": 1600,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0,
-        "g": 0,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "aaaj",
-    "mesh_name": "028.cupola_part_2_.stl",
-    "position": [
-      {
-        "x": 1600,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0,
-        "g": 0,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "aaak",
-    "mesh_name": "029.alpha_magnetic_spectrometer.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "aaal",
-    "mesh_name": "029.alpha_magnetic_spectrometer_atachment.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "aaam",
-    "mesh_name": "030.rassvet_part_1.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "aaan",
-    "mesh_name": "030.rassvet_part_2.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "aaao",
-    "mesh_name": "031.leonardo_part_1.stl",
-    "position": [
-      {
-        "x": 1600,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0,
-        "g": 0,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "aaap",
-    "mesh_name": "031.leonardo_part_2.stl",
-    "position": [
-      {
-        "x": 1600,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0,
-        "g": 0,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "aaaq",
-    "mesh_name": "032.beam.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "aaar",
-    "mesh_name": "033.canada_arm_part_1.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "aaas",
-    "mesh_name": "033.canada_arm_part_2.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "aaat",
-    "mesh_name": "033.canada_arm_part_3.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "aaau",
-    "mesh_name": "033.canada_arm_part_4.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "aaav",
-    "mesh_name": "033.canada_arm_part_5.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "aaaw",
-    "mesh_name": "033.canada_arm_part_6.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "aaax",
-    "mesh_name": "033.canada_arm_part_7.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "aaay",
-    "mesh_name": "034.soyuz.stl",
-    "position": [
-      {
-        "x": 1600,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0,
-        "g": 0,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "aaaz",
-    "mesh_name": "034.soyuz_solar_panel_left.stl",
-    "position": [
-      {
-        "x": 1600,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0,
-        "g": 0,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "bbba",
-    "mesh_name": "034.soyuz_solar_panel_right.stl",
-    "position": [
-      {
-        "x": 1600,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0,
-        "g": 0,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "bbbb",
-    "mesh_name": "035.miscellaneous_model_plate_1200.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "bbbc",
-    "mesh_name": "035.miscellaneous_radiator_extended.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "bbbd",
-    "mesh_name": "035.miscellaneous_radiator_extended_side_bar.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  },
-  {
-    "mesh_id": "bbbd",
-    "mesh_name": "035.miscellaneous_radiator_folded.stl",
-    "position": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "rotation": [
-      {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    ],
-    "color": [
-      {
-        "r": 0.9607843137254902,
-        "g": 0.6078431372549019,
-        "b": 0
-      }
-    ]
-  }
-]
+        {
+            "name": "spot",
+            "models": "https://raw.githubusercontent.com/ravendano014/iss/main/",
+            "parts": [
+              {
+                "mesh_id": "ukaq",
+                "mesh_name": "001.Zarya_part_1.stl",
+                "position": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 6.2
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 1,
+                    "g": 0.09803921568627451,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "aaaa",
+                "mesh_name": "001.Zarya_part_2.stl",
+                "position": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 6.18
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 7.765026077791789e-17,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 1,
+                    "g": 0.09803921568627451,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "eaaa",
+                "mesh_name": "001.Zarya_solar_panel_right_part_1.stl",
+                "position": [
+                  {
+                    "x": -25,
+                    "y": 21.479999999998356,
+                    "z": 15.42
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": -90,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 1,
+                    "g": 0.2,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "faaa",
+                "mesh_name": "001.Zarya_solar_panel_right_part_2.stl",
+                "position": [
+                  {
+                    "x": -13.5,
+                    "y": 25.57,
+                    "z": 8.35
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 90.14999999999495,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 1,
+                    "g": 0.2,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "gaaa",
+                "mesh_name": "002.PMA_part_1.stl",
+                "position": [
+                  {
+                    "x": -23.99000000000095,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9607843137254902,
+                    "g": 0.6078431372549019,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "haaa",
+                "mesh_name": "002.PMA_part_2.stl",
+                "position": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9607843137254902,
+                    "g": 0.6078431372549019,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "iaaa",
+                "mesh_name": "002.Unity_part_1.stl",
+                "position": [
+                  {
+                    "x": -56.89999999999725,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9607843137254902,
+                    "g": 0.6078431372549019,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "jaaa",
+                "mesh_name": "002.Unity_part_2.stl",
+                "position": [
+                  {
+                    "x": 46.259999999999366,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9607843137254902,
+                    "g": 0.6078431372549019,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "kaaa",
+                "mesh_name": "003.Zvezda_antenna.stl",
+                "position": [
+                  {
+                    "x": 33.93000000000182,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9607843137254902,
+                    "g": 0.6078431372549019,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "laaa",
+                "mesh_name": "003.Zvezda_part_1.stl",
+                "position": [
+                  {
+                    "x": -58.179999999996994,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9607843137254902,
+                    "g": 0.6078431372549019,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "maaa",
+                "mesh_name": "003.Zvezda_part_2.stl",
+                "position": [
+                  {
+                    "x": 32,
+                    "y": 32,
+                    "z": -70.2
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 87.14999999999512,
+                    "y": -0.30000000000000016,
+                    "z": -2.174207301781701e-17
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 1,
+                    "g": 0.09803921568627451,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "naaa",
+                "mesh_name": "003.Zvezda_solar_pannel.stl",
+                "position": [
+                  {
+                    "x": -3,
+                    "y": 32,
+                    "z": -52
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 270,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 1,
+                    "g": 0.09803921568627451,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "oaaa",
+                "mesh_name": "004.Z1_truss_antenna.stl",
+                "position": [
+                  {
+                    "x": -22.680000000000746,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9607843137254902,
+                    "g": 0.6078431372549019,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "paaa",
+                "mesh_name": "004.Z1_truss_antenna_2.stl",
+                "position": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9607843137254902,
+                    "g": 0.6078431372549019,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "qaaa",
+                "mesh_name": "004.Z1_truss_docking_spacer.stl",
+                "position": [
+                  {
+                    "x": -26.03000000000127,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9607843137254902,
+                    "g": 0.6078431372549019,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "raaa",
+                "mesh_name": "004.Z1_truss_part_1.stl",
+                "position": [
+                  {
+                    "x": 27.25000000000146,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9607843137254902,
+                    "g": 0.6078431372549019,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "saaa",
+                "mesh_name": "004.Z1_truss_part_2.stl",
+                "position": [
+                  {
+                    "x": -17.159999999999883,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9607843137254902,
+                    "g": 0.6078431372549019,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "taaa",
+                "mesh_name": "005.destiny_part1.stl",
+                "position": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9607843137254902,
+                    "g": 0.6078431372549019,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "uaaa",
+                "mesh_name": "005.destiny_part2.stl",
+                "position": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9607843137254902,
+                    "g": 0.6078431372549019,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "vaaa",
+                "mesh_name": "005.pack.stl",
+                "position": [
+                  {
+                    "x": 61.389999999996355,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9607843137254902,
+                    "g": 0.6078431372549019,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "waaa",
+                "mesh_name": "006.ESP2.stl",
+                "position": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9607843137254902,
+                    "g": 0.6078431372549019,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "xaaa",
+                "mesh_name": "006.quest_part_1.stl",
+                "position": [
+                  {
+                    "x": -115.45000000002216,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9607843137254902,
+                    "g": 0.6078431372549019,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "yaaa",
+                "mesh_name": "006.quest_part_2.stl",
+                "position": [
+                  {
+                    "x": 53.56999999999791,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9607843137254902,
+                    "g": 0.6078431372549019,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "zaaa",
+                "mesh_name": "007.pris_DC1_part_1.stl",
+                "position": [
+                  {
+                    "x": -30.240000000001928,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9607843137254902,
+                    "g": 0.6078431372549019,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "abaa",
+                "mesh_name": "007.pris_DC1_part_2.stl",
+                "position": [
+                  {
+                    "x": -80.88000000000447,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9607843137254902,
+                    "g": 0.6078431372549019,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "acaa",
+                "mesh_name": "008.S0_truss.stl",
+                "position": [
+                  {
+                    "x": -79.13000000000358,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9607843137254902,
+                    "g": 0.6078431372549019,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "adaa",
+                "mesh_name": "009.mobile_transporter.stl",
+                "position": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9607843137254902,
+                    "g": 0.6078431372549019,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "aeaa",
+                "mesh_name": "009.mobile_transporter_arm_adaptor.stl",
+                "position": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9607843137254902,
+                    "g": 0.6078431372549019,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "afaa",
+                "mesh_name": "010.S1_truss.stl",
+                "position": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9607843137254902,
+                    "g": 0.6078431372549019,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "agaa",
+                "mesh_name": "010.radiator_bar.stl",
+                "position": [
+                  {
+                    "x": 63.27999999999598,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9607843137254902,
+                    "g": 0.6078431372549019,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "ahaa",
+                "mesh_name": "010.radiator_extended.stl",
+                "position": [
+                  {
+                    "x": -75.57000000000176,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9607843137254902,
+                    "g": 0.6078431372549019,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "aiaa",
+                "mesh_name": "010.radiator_sidebar.stl",
+                "position": [
+                  {
+                    "x": -74.64000000000128,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9607843137254902,
+                    "g": 0.6078431372549019,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "ajaa",
+                "mesh_name": "011.P1_truss_part_1.stl",
+                "position": [
+                  {
+                    "x": 1779.5699999998367,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 1,
+                    "g": 0.7843137254901961,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "akaa",
+                "mesh_name": "011.radiator_bar.stl",
+                "position": [
+                  {
+                    "x": 1600,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 1,
+                    "g": 0.7843137254901961,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "alaa",
+                "mesh_name": "011.radiator_extended.stl",
+                "position": [
+                  {
+                    "x": 1600,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 1,
+                    "g": 0.7843137254901961,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "amaa",
+                "mesh_name": "011.radiator_side_bars.stl",
+                "position": [
+                  {
+                    "x": 1600,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9686274509803922,
+                    "g": 0.8431372549019608,
+                    "b": 0.00784313725490196
+                  }
+                ]
+              },
+              {
+                "mesh_id": "anaa",
+                "mesh_name": "012.P3_truss_part_1.stl",
+                "position": [
+                  {
+                    "x": 51.41999999999834,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9607843137254902,
+                    "g": 0.6078431372549019,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "aoaa",
+                "mesh_name": "012.P3_truss_part_2.stl",
+                "position": [
+                  {
+                    "x": 63.01999999999603,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9607843137254902,
+                    "g": 0.6078431372549019,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "apaa",
+                "mesh_name": "012.P3_truss_part_3.stl",
+                "position": [
+                  {
+                    "x": 49.78999999999866,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9607843137254902,
+                    "g": 0.6078431372549019,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "aqaa",
+                "mesh_name": "013.P4_docking_port.stl",
+                "position": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9607843137254902,
+                    "g": 0.6078431372549019,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "araa",
+                "mesh_name": "013.P4_truss_part_1.stl",
+                "position": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9607843137254902,
+                    "g": 0.6078431372549019,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "asaa",
+                "mesh_name": "013.P4_truss_part_2.stl",
+                "position": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9607843137254902,
+                    "g": 0.6078431372549019,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "ataa",
+                "mesh_name": "014.p5_truss.stl",
+                "position": [
+                  {
+                    "x": 67.17999999999746,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9607843137254902,
+                    "g": 0.6078431372549019,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "auaa",
+                "mesh_name": "014.p5_truss_docking_port.stl",
+                "position": [
+                  {
+                    "x": 41.26000000000036,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9607843137254902,
+                    "g": 0.6078431372549019,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "avaa",
+                "mesh_name": "015.S3_truss_part_1.stl",
+                "position": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9607843137254902,
+                    "g": 0.6078431372549019,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "awaa",
+                "mesh_name": "015.S3_truss_part_2.stl",
+                "position": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9607843137254902,
+                    "g": 0.6078431372549019,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "axaa",
+                "mesh_name": "015.S3_truss_part_3.stl",
+                "position": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9607843137254902,
+                    "g": 0.6078431372549019,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "ayaa",
+                "mesh_name": "016.S4_truss_docking_port.stl",
+                "position": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9607843137254902,
+                    "g": 0.6078431372549019,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "azaa",
+                "mesh_name": "016.S4_truss_part_1.stl",
+                "position": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9607843137254902,
+                    "g": 0.6078431372549019,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "aaba",
+                "mesh_name": "016.S4_truss_part_2.stl",
+                "position": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9607843137254902,
+                    "g": 0.6078431372549019,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "aaca",
+                "mesh_name": "017.S5_truss.stl",
+                "position": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9607843137254902,
+                    "g": 0.6078431372549019,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "aada",
+                "mesh_name": "017.S5_truss_docking_port.stl",
+                "position": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9607843137254902,
+                    "g": 0.6078431372549019,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "aaea",
+                "mesh_name": "018.side_clip.stl",
+                "position": [
+                  {
+                    "x": 48.529999999998914,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9607843137254902,
+                    "g": 0.6078431372549019,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "aafa",
+                "mesh_name": "018.solar_panel_part_1.stl",
+                "position": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9607843137254902,
+                    "g": 0.6078431372549019,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "aaga",
+                "mesh_name": "018.solar_panel_part_2.stl",
+                "position": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9607843137254902,
+                    "g": 0.6078431372549019,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "aaha",
+                "mesh_name": "019.External_stowage_platform.stl",
+                "position": [
+                  {
+                    "x": 1600,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9686274509803922,
+                    "g": 0.8431372549019608,
+                    "b": 0.00784313725490196
+                  }
+                ]
+              },
+              {
+                "mesh_id": "aaia",
+                "mesh_name": "020.harmony_part_1.stl",
+                "position": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9607843137254902,
+                    "g": 0.6078431372549019,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "aaja",
+                "mesh_name": "020.harmony_part_2.stl",
+                "position": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9607843137254902,
+                    "g": 0.6078431372549019,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "aaka",
+                "mesh_name": "021.P6_truss_docking_port.stl",
+                "position": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9607843137254902,
+                    "g": 0.6078431372549019,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "aala",
+                "mesh_name": "021.P6_truss_part_1.stl",
+                "position": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9607843137254902,
+                    "g": 0.6078431372549019,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "aama",
+                "mesh_name": "021.P6_truss_part_2.stl",
+                "position": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9607843137254902,
+                    "g": 0.6078431372549019,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "aana",
+                "mesh_name": "022.columbus_part_1.stl",
+                "position": [
+                  {
+                    "x": 1698.2799999999106,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 1,
+                    "g": 0.7843137254901961,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "aaoa",
+                "mesh_name": "022.columbus_part_2.stl",
+                "position": [
+                  {
+                    "x": 1699.03999999991,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 1,
+                    "g": 0.7843137254901961,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "aapa",
+                "mesh_name": "023.Experiment_Logistics_Module_part_1.stl",
+                "position": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9607843137254902,
+                    "g": 0.6078431372549019,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "aaqa",
+                "mesh_name": "023.Experiment_Logistics_Module_part_2.stl",
+                "position": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9607843137254902,
+                    "g": 0.6078431372549019,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "aara",
+                "mesh_name": "023.exposed_facility.stl",
+                "position": [
+                  {
+                    "x": 36.5400000000013,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9607843137254902,
+                    "g": 0.6078431372549019,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "aasa",
+                "mesh_name": "023.kibo_arm_part_1.stl",
+                "position": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9607843137254902,
+                    "g": 0.6078431372549019,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "aata",
+                "mesh_name": "023.kibo_arm_part_2.stl",
+                "position": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9607843137254902,
+                    "g": 0.6078431372549019,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "aava",
+                "mesh_name": "023.kibo_arm_part_3.stl",
+                "position": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9607843137254902,
+                    "g": 0.6078431372549019,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "aawa",
+                "mesh_name": "023.kibo_arm_part_4.stl",
+                "position": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9607843137254902,
+                    "g": 0.6078431372549019,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "aaxa",
+                "mesh_name": "023.kibo_part_1.stl",
+                "position": [
+                  {
+                    "x": 31.300000000002093,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9607843137254902,
+                    "g": 0.6078431372549019,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "aaya",
+                "mesh_name": "023.kibo_part_2.stl",
+                "position": [
+                  {
+                    "x": 10.939999999999811,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9607843137254902,
+                    "g": 0.6078431372549019,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "aaza",
+                "mesh_name": "024.S6_truss_docking_port.stl",
+                "position": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9607843137254902,
+                    "g": 0.6078431372549019,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "aaab",
+                "mesh_name": "024.S6_truss_part_1.stl",
+                "position": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9607843137254902,
+                    "g": 0.6078431372549019,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "aaac",
+                "mesh_name": "024.S6_truss_part_2.stl",
+                "position": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9607843137254902,
+                    "g": 0.6078431372549019,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "aaad",
+                "mesh_name": "025.poisk_part_1.stl",
+                "position": [
+                  {
+                    "x": 1802.389999999816,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 1,
+                    "g": 0.7843137254901961,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "aaae",
+                "mesh_name": "025.poisk_part_2.stl",
+                "position": [
+                  {
+                    "x": 1804.0099999998145,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 1,
+                    "g": 0.7843137254901961,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "aaaf",
+                "mesh_name": "026.Express_Logistics_Carrier.stl",
+                "position": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9607843137254902,
+                    "g": 0.6078431372549019,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "aaag",
+                "mesh_name": "027.tranquility_part__1.stl",
+                "position": [
+                  {
+                    "x": -50.01999999999862,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9607843137254902,
+                    "g": 0.6078431372549019,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "aaah",
+                "mesh_name": "027.tranquility_part__2.stl",
+                "position": [
+                  {
+                    "x": -49.05999999999881,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9607843137254902,
+                    "g": 0.6078431372549019,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "aaai",
+                "mesh_name": "028.cupola_part_1_.stl",
+                "position": [
+                  {
+                    "x": 1691.7399999999166,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 1,
+                    "g": 0.7843137254901961,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "aaaj",
+                "mesh_name": "028.cupola_part_2_.stl",
+                "position": [
+                  {
+                    "x": 1691.8499999999165,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 1,
+                    "g": 0.7843137254901961,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "aaak",
+                "mesh_name": "029.alpha_magnetic_spectrometer.stl",
+                "position": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9607843137254902,
+                    "g": 0.6078431372549019,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "aaal",
+                "mesh_name": "029.alpha_magnetic_spectrometer_atachment.stl",
+                "position": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9607843137254902,
+                    "g": 0.6078431372549019,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "aaam",
+                "mesh_name": "030.rassvet_part_1.stl",
+                "position": [
+                  {
+                    "x": -13.169999999999764,
+                    "y": 15.129999999999722,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9607843137254902,
+                    "g": 0.6078431372549019,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "aaan",
+                "mesh_name": "030.rassvet_part_2.stl",
+                "position": [
+                  {
+                    "x": 0,
+                    "y": 3.369999999999972,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9607843137254902,
+                    "g": 0.6078431372549019,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "aaao",
+                "mesh_name": "031.leonardo_part_1.stl",
+                "position": [
+                  {
+                    "x": 1649.8599999999547,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 1,
+                    "g": 0.7843137254901961,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "aaap",
+                "mesh_name": "031.leonardo_part_2.stl",
+                "position": [
+                  {
+                    "x": 1652.879999999952,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 1,
+                    "g": 0.7843137254901961,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "aaaq",
+                "mesh_name": "032.beam.stl",
+                "position": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9607843137254902,
+                    "g": 0.6078431372549019,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "aaar",
+                "mesh_name": "033.canada_arm_part_1.stl",
+                "position": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9607843137254902,
+                    "g": 0.6078431372549019,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "aaas",
+                "mesh_name": "033.canada_arm_part_2.stl",
+                "position": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9607843137254902,
+                    "g": 0.6078431372549019,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "aaat",
+                "mesh_name": "033.canada_arm_part_3.stl",
+                "position": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9607843137254902,
+                    "g": 0.6078431372549019,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "aaau",
+                "mesh_name": "033.canada_arm_part_4.stl",
+                "position": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9607843137254902,
+                    "g": 0.6078431372549019,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "aaav",
+                "mesh_name": "033.canada_arm_part_5.stl",
+                "position": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9607843137254902,
+                    "g": 0.6078431372549019,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "aaaw",
+                "mesh_name": "033.canada_arm_part_6.stl",
+                "position": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9607843137254902,
+                    "g": 0.6078431372549019,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "aaax",
+                "mesh_name": "033.canada_arm_part_7.stl",
+                "position": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9607843137254902,
+                    "g": 0.6078431372549019,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "aaay",
+                "mesh_name": "034.soyuz.stl",
+                "position": [
+                  {
+                    "x": 1975,
+                    "y": 48,
+                    "z": -11.2
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 1,
+                    "g": 0.09803921568627451,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "aaaz",
+                "mesh_name": "034.soyuz_solar_panel_left.stl",
+                "position": [
+                  {
+                    "x": 1996.7099999996392,
+                    "y": 21.280000000000527,
+                    "z": -11.369999999999802
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 1,
+                    "g": 0.09803921568627451,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "bbba",
+                "mesh_name": "034.soyuz_solar_panel_right.stl",
+                "position": [
+                  {
+                    "x": 1997.0999999996388,
+                    "y": 22.58000000000073,
+                    "z": -11.869999999999791
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 1,
+                    "g": 0.09803921568627451,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "bbbb",
+                "mesh_name": "035.miscellaneous_model_plate_1200.stl",
+                "position": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.6941176470588235,
+                    "g": 0.6862745098039216,
+                    "b": 0.6274509803921569
+                  }
+                ]
+              },
+              {
+                "mesh_id": "bbbc",
+                "mesh_name": "035.miscellaneous_radiator_extended.stl",
+                "position": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9607843137254902,
+                    "g": 0.6078431372549019,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "bbbd",
+                "mesh_name": "035.miscellaneous_radiator_extended_side_bar.stl",
+                "position": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9607843137254902,
+                    "g": 0.6078431372549019,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "bbbd",
+                "mesh_name": "035.miscellaneous_radiator_folded.stl",
+                "position": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9607843137254902,
+                    "g": 0.6078431372549019,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "SUbcg",
+                "mesh_name": "003.Zvezda_solar_pannel.stl",
+                "position": [
+                  {
+                    "x": -35,
+                    "y": 32,
+                    "z": -45.73
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 89.84000000000002,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 1,
+                    "g": 0.09803921568627451,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "mknRX",
+                "mesh_name": "018.solar_panel_part_1.stl",
+                "position": [
+                  {
+                    "x": 20,
+                    "y": 20,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9607843137254902,
+                    "g": 0.6078431372549019,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "jWaZy",
+                "mesh_name": "018.solar_panel_part_2.stl",
+                "position": [
+                  {
+                    "x": 20,
+                    "y": 20,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9607843137254902,
+                    "g": 0.6078431372549019,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "LAReE",
+                "mesh_name": "018.solar_panel_part_1.stl",
+                "position": [
+                  {
+                    "x": 40,
+                    "y": 40,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9607843137254902,
+                    "g": 0.6078431372549019,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "VjUgI",
+                "mesh_name": "018.solar_panel_part_2.stl",
+                "position": [
+                  {
+                    "x": 40,
+                    "y": 40,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9607843137254902,
+                    "g": 0.6078431372549019,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "hvCeZ",
+                "mesh_name": "018.solar_panel_part_1.stl",
+                "position": [
+                  {
+                    "x": 60,
+                    "y": 60,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9607843137254902,
+                    "g": 0.6078431372549019,
+                    "b": 0
+                  }
+                ]
+              },
+              {
+                "mesh_id": "DaJfk",
+                "mesh_name": "018.solar_panel_part_2.stl",
+                "position": [
+                  {
+                    "x": 60,
+                    "y": 60,
+                    "z": 0
+                  }
+                ],
+                "rotation": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                ],
+                "color": [
+                  {
+                    "r": 0.9607843137254902,
+                    "g": 0.6078431372549019,
+                    "b": 0
+                  }
+                ]
+              }
+            ]
+}]
 }]
