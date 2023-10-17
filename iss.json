@@ -3,10 +3,6 @@
             "name": "ISS",
             "models": "https://raw.githubusercontent.com/ravendano014/iss/main/",
             "parts": [
-        {
-            "name": "spot",
-            "models": "https://raw.githubusercontent.com/ravendano014/iss/main/",
-            "parts": [
               {
                 "mesh_id": "ukaq",
                 "mesh_name": "001.Zarya_part_1.stl",
